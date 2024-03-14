@@ -6,11 +6,11 @@
 </p>
 
 # 使ったことのある言語(星はよく使う度)
-- JavaScript/TypeScript[フロントエンド:★★★/バックエンド:★★☆]
+- JavaScript/TypeScript[フロントエンド:★★★/バックエンド:★★★]
 - (HTML)[★★★]
 - (CSS)[★★★]
 - (mcfunction)[★★☆]
+- Java[★★☆]
 - ([skript](https://github.com/SkriptLang/Skript))[★★☆]
 - PHP[★☆☆]
 - Python[★☆☆]
-- Java[★☆☆]
